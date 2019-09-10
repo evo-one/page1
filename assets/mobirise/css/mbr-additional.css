@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
+#dropdown-menu-2btn-0 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-0 .nav .link,
+#dropdown-menu-2btn-0 .dropdown-item {
+  font-size: 1.4em;
+  color: #ffffff;
+  font-family: 'Open Sans', sans-serif;
+}
+#dropdown-menu-2btn-0 .navbar,
+#dropdown-menu-2btn-0 .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-0 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-0 .dropdown-menu a:hover,
+#dropdown-menu-2btn-0 .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-0 .navbar-toggler {
+  color: #ffffff;
+}
+#slider-c H1 {
+  text-align: left;
+  font-size: 30px;
+}
+#msg-box5-d .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box5-d .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box5-d .mbr-article {
+  color: #ffffff;
+}
